@@ -1,7 +1,10 @@
 # MSMovie-Manager
 ================================MS Movie Manager==================
+
 MS Movie Manager is a simple Movie Managing database system using this you can easily manage your movie as well as various kind of video files which I was made using java.
+
 ==========Simple Feature (version: 0.0.1)==============================
+
 	#)Add movie  name 
 	#)Add movie  category 
 	#)Add movie  cover photo 
